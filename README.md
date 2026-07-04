@@ -20,11 +20,11 @@ This project analyzes **Citi Bike Jersey City trip data** using Python notebooks
 ├── data
 │   └── JC
 └── notebooks
-    ├── 1_Download_Citibike_Jersey_Data copy.ipynb
+    ├── 1_Download_Citibike_Jersey_Data.ipynb
     ├── 2_Data_Enrichment.ipynb
     ├── 3_Weather_Data.ipynb
     ├── 4_Data_Visualization.ipynb
-    └── 5_Neighborhood_Analysis copy.ipynb
+    └── 5_Neighborhood_Analysis.ipynb
 ```
 
 
@@ -149,7 +149,7 @@ The notebooks should be executed in order.
 
 ---
 
-### Notebook 1: `1_Download_Citibike_Jersey_Data copy.ipynb`
+### Notebook 1: `1_Download_Citibike_Jersey_Data.ipynb`
 
 This notebook downloads Jersey City Citi Bike trip data.
 
@@ -213,7 +213,7 @@ This notebook is focused on visual analysis.
 
 ---
 
-### Notebook 5: `5_Neighborhood_Analysis copy.ipynb`
+### Notebook 5: `5_Neighborhood_Analysis.ipynb`
 
 This notebook performs neighborhood-level geospatial analysis.
 
