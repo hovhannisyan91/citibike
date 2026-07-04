@@ -80,7 +80,7 @@ File → Open Folder → citibike-jersey-city-analysis
 Create a Conda environment:
 
 ```bash
-conda create -n citibike-env python=3.12
+conda create -n citibike-env
 ```
 
 Activate the environment:
