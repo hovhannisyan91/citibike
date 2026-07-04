@@ -235,11 +235,11 @@ This notebook helps understand Citi Bike usage across different neighborhoods.
 Run the notebooks in the following order:
 
 ```text
-1_Download_Citibike_Jersey_Data copy.ipynb
+1_Download_Citibike_Jersey_Data.ipynb
 2_Data_Enrichment.ipynb
 3_Weather_Data.ipynb
 4_Data_Visualization.ipynb
-5_Neighborhood_Analysis copy.ipynb
+5_Neighborhood_Analysis.ipynb
 ```
 
 The order is important because later notebooks depend on outputs from earlier notebooks.
